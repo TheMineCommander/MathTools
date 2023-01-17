@@ -1,1 +1,1 @@
-# simplifyquadratics
+# Useful math tools
